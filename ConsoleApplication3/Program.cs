@@ -11,7 +11,8 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo1");
-            Console.WriteLine("Hallo2");
+            Console.WriteLine("Hallo2lokal");
+            Console.WriteLine("Hallo3lokal");
         }
     }
 }
